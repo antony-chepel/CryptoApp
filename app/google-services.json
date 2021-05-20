@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810998469920",
+    "project_id": "cryptobank-9ce31",
+    "storage_bucket": "cryptobank-9ce31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810998469920:android:d047c50518ea9985dcf345",
+        "android_client_info": {
+          "package_name": "com.tony_fire.cryptobank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810998469920-lbcvdfa97vtgeg46iubuq71g9hgtbfp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpoqiNHtQB6jERED1MJYQpXZ9czdF1znE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810998469920-lbcvdfa97vtgeg46iubuq71g9hgtbfp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
